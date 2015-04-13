@@ -72,7 +72,7 @@ The Author reserves the right to distribute the Mod.
 The Author may designate a person or organization as a Distributor.  
 A Distributor is granted the right to distribute the Mod.  
 The Author may require that a Distributor provides a direct link to the Codebase.  
-The User may not distribute the Mod without being granted distribution rights from the Author.  
+The User may not distribute the Mod without being granted distribution rights in written form from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
 6. Right to contribute
@@ -86,16 +86,12 @@ The User renounces all rights to their contribution except as specified under th
 The User retains the right to re-use code they've written.  
 The Author may specify a Contributor License Agreement allowing a Contributor to retain some or all rights.  
 
-7. Right to derive
---------
-
-The User may create Derivative(s) based on the Mod.  
-A Derivative must contain changes which a reasonably informed person would consider significant.  
-
-The User may distribute a Derivative if the following conditions are met:
- - The Derivative does not generate revenue.
- - The Derivative provides credit to the Author.
- - The Derivative complies with the Mod license.
+7. Right to showcase mod
+-------
+The user may showcase or post the mod on video uploading sites or forums if (they) adhere to the following:
+-They may not post a direct download hosted by someone other than the mod developer or a body with explicit written permission from the mod developer
+-They must provide credit to the original mod author
+-They must link to the mod/author website or download page
 
 8. Right to distribute addons
 --------
@@ -110,12 +106,12 @@ The Addon may be distributed under a different license.
 The User may create Modpack(s) which include the Mod.  
 A Modpack Creator is granted the right to distribute the Mod as part of a Modpack.  
 
-Modpacks containing the Mod may not be used to generate revenue unless specifically granted this right by the Author.  
+Modpacks containing the Mod may not be used to generate revenue unless specifically granted this right by the Author and they must give credit to the mod author and give a link to the mod/author website or download page
 
 10. Author responsibilities
 --------
 
-The Author must make the Mod source freely and publicly available.  
+
 
 11. Author rights
 --------
